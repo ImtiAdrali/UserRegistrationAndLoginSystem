@@ -1,0 +1,33 @@
+
+body {
+    margin-top: 20px;
+}
+
+.user-list tbody td .user-link {
+    display: block;
+    font-size: 1.25em;
+    padding-top: 3px;
+}
+
+.user-list tbody .icons .table-link {
+    margin-left: 12px;
+    font-size: 1.5em;
+}
+
+.user-list tbody > tr {
+    padding: 12px 0;
+    background: gray;
+}
+
+.user-list tbody .icons .table-link > .fa-magnifying-glass{
+    color: #556484;
+}
+
+.user-list tbody .icons .table-link > .fa-square-pen{
+    color: #5885b8;
+}
+
+.user-list tbody .icons .table-link > .fa-trash{
+    color: #a75d54;
+}
+
